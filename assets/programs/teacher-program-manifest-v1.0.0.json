@@ -1,0 +1,2658 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_id": "year9-graphics-teacher-program",
+  "version": "1.0.0",
+  "build_id": "year9-graphics-local-candidate-2026-08-31",
+  "course": {
+    "id": "year-9-graphics-technology",
+    "title": "Year 9 Graphics Technology",
+    "course_number": "1692",
+    "program_role": "Year 1 allocation within the 200-hour Stage 5 elective"
+  },
+  "cohort": "Stage 5, Year 9",
+  "delivery_year": 2027,
+  "source_contract": {
+    "artifact_id": "year9-graphics-source-map",
+    "version": "1.0.0",
+    "sha256": "df4fa4ae9e578ed8ceef0f06e3f1568a93d322b7bb85b9a55faf3487169c5e07"
+  },
+  "integration_baseline": {
+    "artifact_id": "year9-graphics-integrated-candidate",
+    "sha256": "0940149767616aa9ed5b50a79227a76b079d0d7443ad08f2bd334517acf0e7d8"
+  },
+  "syllabus_basis": {
+    "title": "Communication Technology 7-10 Syllabus (2025)",
+    "version": "2025",
+    "outcome_code_family": "CMT5",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/communication-technology-7-10-2025/overview/course",
+    "verified_date": "2026-08-31",
+    "mandatory_from": 2028,
+    "implementation_status": "2027 planning candidate; approved early-adoption decision remains Teacher to confirm; mandatory from 2028",
+    "delivery_year": 2027
+  },
+  "authority_state": "source-bound-with-teacher-to-confirm",
+  "release_state": "local-acceptance-candidate",
+  "outcomes": [
+    {
+      "code": "CMT5-SAF-01",
+      "statement": "applies risk management and safe work practices in communication technology contexts",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03"
+      ]
+    },
+    {
+      "code": "CMT5-COM-01",
+      "statement": "communicates ideas, concepts and solutions through design and production",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "CMT5-DEP-01",
+      "statement": "selects and applies technical and practical skills for design and production",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "CMT5-DES-01",
+      "statement": "applies design principles, standards and conventions in the production of projects",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "CMT5-DES-02",
+      "statement": "designs products and solutions for a range of purposes and audiences",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "CMT5-USE-01",
+      "statement": "selects and uses equipment and software in the design, development and presentation of communication technology solutions",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "CMT5-ENV-01",
+      "statement": "evaluates the purpose, functionality and environmental impacts of products and solutions",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "CMT5-PMP-01",
+      "statement": "selects and applies processes for the planning and management of communication technology projects",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "CMT5-IET-01",
+      "statement": "assesses the impact of current and emerging technologies used in communication technology production",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "m03",
+        "m04"
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "module_id": "m01",
+      "title": "Drawing Foundations and Visual Communication",
+      "timing": "Provisional teaching blocks 1-10",
+      "outcome_codes": [
+        "CMT5-SAF-01",
+        "CMT5-COM-01",
+        "CMT5-DEP-01",
+        "CMT5-DES-01",
+        "CMT5-DES-02",
+        "CMT5-USE-01",
+        "CMT5-PMP-01"
+      ],
+      "sections": [
+        {
+          "section_id": "m01s01",
+          "title": "Safe studio, instruments and line language",
+          "content_descriptors": [
+            "Risk management, safe and responsible practice, resource selection and clear graphic communication.",
+            "Manual drawing equipment, layout conventions and purposeful line qualities.",
+            "Apply manual drawing techniques and conventions to communicate graphic information.",
+            "Select suitable resources and apply verified safe work practices.",
+            "Document decisions, apply feedback and communicate responsible practice.",
+            "Use drawing terminology and conventions to explain design information.",
+            "Manage project evidence, use feedback and evaluate progress against intended communication needs."
+          ],
+          "source_ids": [
+            "nesa-principles",
+            "nesa-drawing-core"
+          ],
+          "learning_intention": "Separate general risk thinking from local instructions, then match drawing instruments and line types to their communication jobs.",
+          "learning_sequence": [
+            "Read and annotate the named theory section.",
+            "Inspect the four teaching visuals and explain what each makes visible.",
+            "Complete the concept-linked applied learning activity.",
+            "Complete ten feedback-rich knowledge checks and revisit linked explanations.",
+            "Write the scaffolded capstone and retain a concise folio record."
+          ],
+          "evidence": "Ten feedback-rich MCQs, one section-specific long-response capstone, one applied activity response and one folio evidence record.",
+          "formative_checks": [
+            "Immediate option-specific MCQ feedback",
+            "Return-to-theory links",
+            "Applied activity response check",
+            "Module review checklist"
+          ],
+          "adjustments": [
+            "Chunk theory by the named subheadings and use the linked return anchors.",
+            "Use alt text, captions and non-video alternatives before adding teacher-selected media.",
+            "Allow a scaffolded draft before the capstone is refined and saved."
+          ],
+          "literacy_numeracy_digital": [
+            "Use precise graphics vocabulary and evidence-based justification.",
+            "Interpret proportion, scale, spatial relationships or layout where the section requires it.",
+            "Save, organise and review browser-local or Onshape evidence without treating it as formal submission."
+          ],
+          "safety_workplace": "Apply the section's general risk-thinking and responsible-use principles. Current local WHS controls, approved equipment, account routes and practical permissions remain Teacher to confirm before practical use.",
+          "resources": [
+            "Year 9 Graphics Technology course site",
+            "Module 01 classroom presentation",
+            "Four section-specific teaching visuals",
+            "Selected official NESA syllabus content",
+            "Official Onshape learning resources where CAD applies"
+          ],
+          "substantial_sequence": true,
+          "site_destinations": {
+            "theory": "site-m01s01-theory",
+            "knowledge_check": "site-m01s01-knowledge-check",
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01s01-capstone",
+                "site-m01s01-folio"
+              ]
+            },
+            "activity": "site-m01s01-activity",
+            "media": "site-m01s01-media"
+          }
+        },
+        {
+          "section_id": "m01s02",
+          "title": "Sketching, rendering and geometric construction",
+          "content_descriptors": [
+            "Develop 2D and 3D manual representations using geometric construction and drawing techniques.",
+            "Use pictorial communication and rendering to clarify product form and intent.",
+            "Apply geometric techniques including bisection, symmetry, translation, tangency, ellipses or regular polygons as appropriate.",
+            "Use rendering conventions to communicate form, surface and material intent.",
+            "Develop, annotate, evaluate and communicate design ideas through folio evidence.",
+            "Select drawing methods that suit the communication purpose.",
+            "Manage project evidence, use feedback and evaluate progress against intended communication needs."
+          ],
+          "source_ids": [
+            "nesa-drawing-core",
+            "nesa-drawing-contexts",
+            "nesa-principles"
+          ],
+          "learning_intention": "Move from exploratory sketching to controlled construction and rendering that explains form.",
+          "learning_sequence": [
+            "Read and annotate the named theory section.",
+            "Inspect the four teaching visuals and explain what each makes visible.",
+            "Complete the concept-linked applied learning activity.",
+            "Complete ten feedback-rich knowledge checks and revisit linked explanations.",
+            "Write the scaffolded capstone and retain a concise folio record."
+          ],
+          "evidence": "Ten feedback-rich MCQs, one section-specific long-response capstone, one applied activity response and one folio evidence record.",
+          "formative_checks": [
+            "Immediate option-specific MCQ feedback",
+            "Return-to-theory links",
+            "Applied activity response check",
+            "Module review checklist"
+          ],
+          "adjustments": [
+            "Chunk theory by the named subheadings and use the linked return anchors.",
+            "Use alt text, captions and non-video alternatives before adding teacher-selected media.",
+            "Allow a scaffolded draft before the capstone is refined and saved."
+          ],
+          "literacy_numeracy_digital": [
+            "Use precise graphics vocabulary and evidence-based justification.",
+            "Interpret proportion, scale, spatial relationships or layout where the section requires it.",
+            "Save, organise and review browser-local or Onshape evidence without treating it as formal submission."
+          ],
+          "safety_workplace": "Apply the section's general risk-thinking and responsible-use principles. Current local WHS controls, approved equipment, account routes and practical permissions remain Teacher to confirm before practical use.",
+          "resources": [
+            "Year 9 Graphics Technology course site",
+            "Module 01 classroom presentation",
+            "Four section-specific teaching visuals",
+            "Selected official NESA syllabus content",
+            "Official Onshape learning resources where CAD applies"
+          ],
+          "substantial_sequence": true,
+          "site_destinations": {
+            "theory": "site-m01s02-theory",
+            "knowledge_check": "site-m01s02-knowledge-check",
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01s02-capstone",
+                "site-m01s02-folio"
+              ]
+            },
+            "activity": "site-m01s02-activity",
+            "media": "site-m01s02-media"
+          }
+        },
+        {
+          "section_id": "m01s03",
+          "title": "Views, projection and dimensioning",
+          "content_descriptors": [
+            "Communicate using orthogonal and pictorial drawing systems, projection conventions and dimensions.",
+            "Develop product working drawings with coordinated and dimensioned views.",
+            "Apply drawing systems and dimensioning conventions to communicate design information.",
+            "Produce product working drawings and pictorial representations.",
+            "Document and evaluate graphic communication decisions.",
+            "Use appropriate terminology, conventions and drawing systems to communicate a solution.",
+            "Manage project evidence, use feedback and evaluate progress against intended communication needs."
+          ],
+          "source_ids": [
+            "nesa-drawing-core",
+            "nesa-drawing-contexts",
+            "nesa-principles"
+          ],
+          "learning_intention": "Choose views and dimensions that communicate the required information without claiming unverified local standards settings.",
+          "learning_sequence": [
+            "Read and annotate the named theory section.",
+            "Inspect the four teaching visuals and explain what each makes visible.",
+            "Complete the concept-linked applied learning activity.",
+            "Complete ten feedback-rich knowledge checks and revisit linked explanations.",
+            "Write the scaffolded capstone and retain a concise folio record."
+          ],
+          "evidence": "Ten feedback-rich MCQs, one section-specific long-response capstone, one applied activity response and one folio evidence record.",
+          "formative_checks": [
+            "Immediate option-specific MCQ feedback",
+            "Return-to-theory links",
+            "Applied activity response check",
+            "Module review checklist"
+          ],
+          "adjustments": [
+            "Chunk theory by the named subheadings and use the linked return anchors.",
+            "Use alt text, captions and non-video alternatives before adding teacher-selected media.",
+            "Allow a scaffolded draft before the capstone is refined and saved."
+          ],
+          "literacy_numeracy_digital": [
+            "Use precise graphics vocabulary and evidence-based justification.",
+            "Interpret proportion, scale, spatial relationships or layout where the section requires it.",
+            "Save, organise and review browser-local or Onshape evidence without treating it as formal submission."
+          ],
+          "safety_workplace": "Apply the section's general risk-thinking and responsible-use principles. Current local WHS controls, approved equipment, account routes and practical permissions remain Teacher to confirm before practical use.",
+          "resources": [
+            "Year 9 Graphics Technology course site",
+            "Module 01 classroom presentation",
+            "Four section-specific teaching visuals",
+            "Selected official NESA syllabus content",
+            "Official Onshape learning resources where CAD applies"
+          ],
+          "substantial_sequence": true,
+          "site_destinations": {
+            "theory": "site-m01s03-theory",
+            "knowledge_check": "site-m01s03-knowledge-check",
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m01s03-capstone",
+                "site-m01s03-folio"
+              ]
+            },
+            "activity": "site-m01s03-activity",
+            "media": "site-m01s03-media"
+          }
+        }
+      ]
+    },
+    {
+      "module_id": "m02",
+      "title": "Onshape Product Drawing",
+      "timing": "Provisional teaching blocks 11-20",
+      "outcome_codes": [
+        "CMT5-SAF-01",
+        "CMT5-COM-01",
+        "CMT5-DEP-01",
+        "CMT5-DES-01",
+        "CMT5-DES-02",
+        "CMT5-USE-01",
+        "CMT5-PMP-01"
+      ],
+      "sections": [
+        {
+          "section_id": "m02s01",
+          "title": "Documents, sketch planes and constraints",
+          "content_descriptors": [
+            "Use CAD to develop accurate drawing and modelling information.",
+            "Select and organise appropriate digital resources for project work.",
+            "Apply CAD techniques, geometric relationships and dimensions to produce controlled graphic information.",
+            "Document development, explain decisions and retain evidence of iteration.",
+            "Use CAD conventions and terminology to communicate design intent.",
+            "Manage, evaluate and communicate a project through an evidence-bearing folio.",
+            "Develop product drawing evidence through CAD modelling, working drawings and presentation."
+          ],
+          "source_ids": [
+            "nesa-drawing-core",
+            "nesa-principles",
+            "nesa-drawing-contexts"
+          ],
+          "learning_intention": "Organise an Onshape document, choose a sketch plane deliberately and use constraints to capture geometric relationships.",
+          "learning_sequence": [
+            "Read and annotate the named theory section.",
+            "Inspect the four teaching visuals and explain what each makes visible.",
+            "Complete the concept-linked applied learning activity.",
+            "Complete ten feedback-rich knowledge checks and revisit linked explanations.",
+            "Write the scaffolded capstone and retain a concise folio record."
+          ],
+          "evidence": "Ten feedback-rich MCQs, one section-specific long-response capstone, one applied activity response and one folio evidence record.",
+          "formative_checks": [
+            "Immediate option-specific MCQ feedback",
+            "Return-to-theory links",
+            "Applied activity response check",
+            "Module review checklist"
+          ],
+          "adjustments": [
+            "Chunk theory by the named subheadings and use the linked return anchors.",
+            "Use alt text, captions and non-video alternatives before adding teacher-selected media.",
+            "Allow a scaffolded draft before the capstone is refined and saved."
+          ],
+          "literacy_numeracy_digital": [
+            "Use precise graphics vocabulary and evidence-based justification.",
+            "Interpret proportion, scale, spatial relationships or layout where the section requires it.",
+            "Save, organise and review browser-local or Onshape evidence without treating it as formal submission."
+          ],
+          "safety_workplace": "Apply the section's general risk-thinking and responsible-use principles. Current local WHS controls, approved equipment, account routes and practical permissions remain Teacher to confirm before practical use.",
+          "resources": [
+            "Year 9 Graphics Technology course site",
+            "Module 02 classroom presentation",
+            "Four section-specific teaching visuals",
+            "Selected official NESA syllabus content",
+            "Official Onshape learning resources where CAD applies"
+          ],
+          "substantial_sequence": true,
+          "site_destinations": {
+            "theory": "site-m02s01-theory",
+            "knowledge_check": "site-m02s01-knowledge-check",
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02s01-capstone",
+                "site-m02s01-folio"
+              ]
+            },
+            "activity": "site-m02s01-activity",
+            "media": "site-m02s01-media"
+          }
+        },
+        {
+          "section_id": "m02s02",
+          "title": "Features, accuracy and design intent",
+          "content_descriptors": [
+            "Apply CAD modelling concepts such as add, extrude, pattern, shell and subtract in product drawing.",
+            "Use CAD modelling tools to produce and modify product representations.",
+            "Test, evaluate and improve design development decisions.",
+            "Use folio records, feedback and evaluation to explain development and improvement.",
+            "Communicate product modelling decisions using appropriate CAD terminology.",
+            "Manage, evaluate and communicate a project through an evidence-bearing folio.",
+            "Develop product drawing evidence through CAD modelling, working drawings and presentation."
+          ],
+          "source_ids": [
+            "nesa-drawing-contexts",
+            "nesa-principles"
+          ],
+          "learning_intention": "Build features in a readable order and distinguish measured accuracy from robust design intent.",
+          "learning_sequence": [
+            "Read and annotate the named theory section.",
+            "Inspect the four teaching visuals and explain what each makes visible.",
+            "Complete the concept-linked applied learning activity.",
+            "Complete ten feedback-rich knowledge checks and revisit linked explanations.",
+            "Write the scaffolded capstone and retain a concise folio record."
+          ],
+          "evidence": "Ten feedback-rich MCQs, one section-specific long-response capstone, one applied activity response and one folio evidence record.",
+          "formative_checks": [
+            "Immediate option-specific MCQ feedback",
+            "Return-to-theory links",
+            "Applied activity response check",
+            "Module review checklist"
+          ],
+          "adjustments": [
+            "Chunk theory by the named subheadings and use the linked return anchors.",
+            "Use alt text, captions and non-video alternatives before adding teacher-selected media.",
+            "Allow a scaffolded draft before the capstone is refined and saved."
+          ],
+          "literacy_numeracy_digital": [
+            "Use precise graphics vocabulary and evidence-based justification.",
+            "Interpret proportion, scale, spatial relationships or layout where the section requires it.",
+            "Save, organise and review browser-local or Onshape evidence without treating it as formal submission."
+          ],
+          "safety_workplace": "Apply the section's general risk-thinking and responsible-use principles. Current local WHS controls, approved equipment, account routes and practical permissions remain Teacher to confirm before practical use.",
+          "resources": [
+            "Year 9 Graphics Technology course site",
+            "Module 02 classroom presentation",
+            "Four section-specific teaching visuals",
+            "Selected official NESA syllabus content",
+            "Official Onshape learning resources where CAD applies"
+          ],
+          "substantial_sequence": true,
+          "site_destinations": {
+            "theory": "site-m02s02-theory",
+            "knowledge_check": "site-m02s02-knowledge-check",
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02s02-capstone",
+                "site-m02s02-folio"
+              ]
+            },
+            "activity": "site-m02s02-activity",
+            "media": "site-m02s02-media"
+          }
+        },
+        {
+          "section_id": "m02s03",
+          "title": "Drawings, dimensions, exports and versions",
+          "content_descriptors": [
+            "Develop and present digital drawings using appropriate views, dimensions and formats.",
+            "Manage project versions, resources and communication evidence.",
+            "Use CAD drawings, views, dimensions and presentation formats to communicate a solution.",
+            "Plan and manage a recoverable digital project handoff.",
+            "Document project development, communicate decisions and evaluate evidence.",
+            "Use digital drawing conventions and formats for a defined audience and purpose.",
+            "Manage, evaluate and communicate a project through an evidence-bearing folio.",
+            "Develop product drawing evidence through CAD modelling, working drawings and presentation."
+          ],
+          "source_ids": [
+            "nesa-drawing-core",
+            "nesa-principles",
+            "nesa-drawing-contexts"
+          ],
+          "learning_intention": "Turn an Onshape model into purposeful drawing evidence, then choose export and version actions for a defined handoff.",
+          "learning_sequence": [
+            "Read and annotate the named theory section.",
+            "Inspect the four teaching visuals and explain what each makes visible.",
+            "Complete the concept-linked applied learning activity.",
+            "Complete ten feedback-rich knowledge checks and revisit linked explanations.",
+            "Write the scaffolded capstone and retain a concise folio record."
+          ],
+          "evidence": "Ten feedback-rich MCQs, one section-specific long-response capstone, one applied activity response and one folio evidence record.",
+          "formative_checks": [
+            "Immediate option-specific MCQ feedback",
+            "Return-to-theory links",
+            "Applied activity response check",
+            "Module review checklist"
+          ],
+          "adjustments": [
+            "Chunk theory by the named subheadings and use the linked return anchors.",
+            "Use alt text, captions and non-video alternatives before adding teacher-selected media.",
+            "Allow a scaffolded draft before the capstone is refined and saved."
+          ],
+          "literacy_numeracy_digital": [
+            "Use precise graphics vocabulary and evidence-based justification.",
+            "Interpret proportion, scale, spatial relationships or layout where the section requires it.",
+            "Save, organise and review browser-local or Onshape evidence without treating it as formal submission."
+          ],
+          "safety_workplace": "Apply the section's general risk-thinking and responsible-use principles. Current local WHS controls, approved equipment, account routes and practical permissions remain Teacher to confirm before practical use.",
+          "resources": [
+            "Year 9 Graphics Technology course site",
+            "Module 02 classroom presentation",
+            "Four section-specific teaching visuals",
+            "Selected official NESA syllabus content",
+            "Official Onshape learning resources where CAD applies"
+          ],
+          "substantial_sequence": true,
+          "site_destinations": {
+            "theory": "site-m02s03-theory",
+            "knowledge_check": "site-m02s03-knowledge-check",
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m02s03-capstone",
+                "site-m02s03-folio"
+              ]
+            },
+            "activity": "site-m02s03-activity",
+            "media": "site-m02s03-media"
+          }
+        }
+      ]
+    },
+    {
+      "module_id": "m03",
+      "title": "Graphic Modelling and Prototyping",
+      "timing": "Provisional teaching blocks 21-30",
+      "outcome_codes": [
+        "CMT5-SAF-01",
+        "CMT5-COM-01",
+        "CMT5-DEP-01",
+        "CMT5-DES-01",
+        "CMT5-DES-02",
+        "CMT5-USE-01",
+        "CMT5-ENV-01",
+        "CMT5-PMP-01",
+        "CMT5-IET-01"
+      ],
+      "sections": [
+        {
+          "section_id": "m03s01",
+          "title": "Product research, brief and concept choice",
+          "content_descriptors": [
+            "Plan graphic modelling and prototyping through specifications, production processes, sketches, working drawings and lists.",
+            "Research ethically, develop annotated concepts and manage decisions in a folio.",
+            "Develop specifications and concepts for a target audience using suitable graphic techniques.",
+            "Apply ethical research, design processes and ongoing evaluation.",
+            "Document research, annotated concept development, decision making and evaluation in a folio.",
+            "Use specifications and target-audience needs to justify a proposed model or prototype.",
+            "Manage a graphics project through research, planning, evidence, feedback and ongoing evaluation.",
+            "Develop and communicate a model or prototype through specifications, graphics, lists and evaluation."
+          ],
+          "source_ids": [
+            "nesa-modelling",
+            "nesa-principles"
+          ],
+          "learning_intention": "Use relevant product research to interpret a brief, develop alternatives and justify a concept choice.",
+          "learning_sequence": [
+            "Read and annotate the named theory section.",
+            "Inspect the four teaching visuals and explain what each makes visible.",
+            "Complete the concept-linked applied learning activity.",
+            "Complete ten feedback-rich knowledge checks and revisit linked explanations.",
+            "Write the scaffolded capstone and retain a concise folio record."
+          ],
+          "evidence": "Ten feedback-rich MCQs, one section-specific long-response capstone, one applied activity response and one folio evidence record.",
+          "formative_checks": [
+            "Immediate option-specific MCQ feedback",
+            "Return-to-theory links",
+            "Applied activity response check",
+            "Module review checklist"
+          ],
+          "adjustments": [
+            "Chunk theory by the named subheadings and use the linked return anchors.",
+            "Use alt text, captions and non-video alternatives before adding teacher-selected media.",
+            "Allow a scaffolded draft before the capstone is refined and saved."
+          ],
+          "literacy_numeracy_digital": [
+            "Use precise graphics vocabulary and evidence-based justification.",
+            "Interpret proportion, scale, spatial relationships or layout where the section requires it.",
+            "Save, organise and review browser-local or Onshape evidence without treating it as formal submission."
+          ],
+          "safety_workplace": "Apply the section's general risk-thinking and responsible-use principles. Current local WHS controls, approved equipment, account routes and practical permissions remain Teacher to confirm before practical use.",
+          "resources": [
+            "Year 9 Graphics Technology course site",
+            "Module 03 classroom presentation",
+            "Four section-specific teaching visuals",
+            "Selected official NESA syllabus content",
+            "Official Onshape learning resources where CAD applies"
+          ],
+          "substantial_sequence": true,
+          "site_destinations": {
+            "theory": "site-m03s01-theory",
+            "knowledge_check": "site-m03s01-knowledge-check",
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03s01-capstone",
+                "site-m03s01-folio"
+              ]
+            },
+            "activity": "site-m03s01-activity",
+            "media": "site-m03s01-media"
+          }
+        },
+        {
+          "section_id": "m03s02",
+          "title": "Parts, cutting lists and assemblies",
+          "content_descriptors": [
+            "Plan production through material and parts lists, working drawings and suitable design applications.",
+            "Develop cutting and parts lists, orthogonal working drawings and exploded or cutaway pictorial views.",
+            "Apply digital modelling and suitable design applications to communicate part and assembly relationships.",
+            "Use exploded views and parts or cutting lists in product communication.",
+            "Document planning decisions, production information and evaluation in a project folio.",
+            "Communicate model or prototype planning through parts information and working graphics.",
+            "Manage a graphics project through research, planning, evidence, feedback and ongoing evaluation.",
+            "Develop and communicate a model or prototype through specifications, graphics, lists and evaluation."
+          ],
+          "source_ids": [
+            "nesa-modelling",
+            "nesa-drawing-contexts",
+            "nesa-principles"
+          ],
+          "learning_intention": "Decompose a product into parts, organise dimensional records and build an Onshape assembly that communicates relationships.",
+          "learning_sequence": [
+            "Read and annotate the named theory section.",
+            "Inspect the four teaching visuals and explain what each makes visible.",
+            "Complete the concept-linked applied learning activity.",
+            "Complete ten feedback-rich knowledge checks and revisit linked explanations.",
+            "Write the scaffolded capstone and retain a concise folio record."
+          ],
+          "evidence": "Ten feedback-rich MCQs, one section-specific long-response capstone, one applied activity response and one folio evidence record.",
+          "formative_checks": [
+            "Immediate option-specific MCQ feedback",
+            "Return-to-theory links",
+            "Applied activity response check",
+            "Module review checklist"
+          ],
+          "adjustments": [
+            "Chunk theory by the named subheadings and use the linked return anchors.",
+            "Use alt text, captions and non-video alternatives before adding teacher-selected media.",
+            "Allow a scaffolded draft before the capstone is refined and saved."
+          ],
+          "literacy_numeracy_digital": [
+            "Use precise graphics vocabulary and evidence-based justification.",
+            "Interpret proportion, scale, spatial relationships or layout where the section requires it.",
+            "Save, organise and review browser-local or Onshape evidence without treating it as formal submission."
+          ],
+          "safety_workplace": "Apply the section's general risk-thinking and responsible-use principles. Current local WHS controls, approved equipment, account routes and practical permissions remain Teacher to confirm before practical use.",
+          "resources": [
+            "Year 9 Graphics Technology course site",
+            "Module 03 classroom presentation",
+            "Four section-specific teaching visuals",
+            "Selected official NESA syllabus content",
+            "Official Onshape learning resources where CAD applies"
+          ],
+          "substantial_sequence": true,
+          "site_destinations": {
+            "theory": "site-m03s02-theory",
+            "knowledge_check": "site-m03s02-knowledge-check",
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03s02-capstone",
+                "site-m03s02-folio"
+              ]
+            },
+            "activity": "site-m03s02-activity",
+            "media": "site-m03s02-media"
+          }
+        },
+        {
+          "section_id": "m03s03",
+          "title": "Prototype pathway, testing and evaluation",
+          "content_descriptors": [
+            "Develop physical or digital models, test against specifications, use feedback and evaluate possible improvements.",
+            "Apply risk, resource and project management through ongoing evaluation and folio records.",
+            "Use digital modelling, testing, feedback and evaluation to improve a solution.",
+            "Apply safe and responsible project processes and retain evidence of decisions.",
+            "Evaluate models or prototypes against specifications and feedback and propose improvements.",
+            "Use project folios to record evaluation, reflection and feedback integration.",
+            "Manage a graphics project through research, planning, evidence, feedback and ongoing evaluation.",
+            "Develop and communicate a model or prototype through specifications, graphics, lists and evaluation."
+          ],
+          "source_ids": [
+            "nesa-modelling",
+            "nesa-principles"
+          ],
+          "learning_intention": "Plan a source-safe prototype pathway, collect evidence against a test question and evaluate the next revision.",
+          "learning_sequence": [
+            "Read and annotate the named theory section.",
+            "Inspect the four teaching visuals and explain what each makes visible.",
+            "Complete the concept-linked applied learning activity.",
+            "Complete ten feedback-rich knowledge checks and revisit linked explanations.",
+            "Write the scaffolded capstone and retain a concise folio record."
+          ],
+          "evidence": "Ten feedback-rich MCQs, one section-specific long-response capstone, one applied activity response and one folio evidence record.",
+          "formative_checks": [
+            "Immediate option-specific MCQ feedback",
+            "Return-to-theory links",
+            "Applied activity response check",
+            "Module review checklist"
+          ],
+          "adjustments": [
+            "Chunk theory by the named subheadings and use the linked return anchors.",
+            "Use alt text, captions and non-video alternatives before adding teacher-selected media.",
+            "Allow a scaffolded draft before the capstone is refined and saved."
+          ],
+          "literacy_numeracy_digital": [
+            "Use precise graphics vocabulary and evidence-based justification.",
+            "Interpret proportion, scale, spatial relationships or layout where the section requires it.",
+            "Save, organise and review browser-local or Onshape evidence without treating it as formal submission."
+          ],
+          "safety_workplace": "Apply the section's general risk-thinking and responsible-use principles. Current local WHS controls, approved equipment, account routes and practical permissions remain Teacher to confirm before practical use.",
+          "resources": [
+            "Year 9 Graphics Technology course site",
+            "Module 03 classroom presentation",
+            "Four section-specific teaching visuals",
+            "Selected official NESA syllabus content",
+            "Official Onshape learning resources where CAD applies"
+          ],
+          "substantial_sequence": true,
+          "site_destinations": {
+            "theory": "site-m03s03-theory",
+            "knowledge_check": "site-m03s03-knowledge-check",
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m03s03-capstone",
+                "site-m03s03-folio"
+              ]
+            },
+            "activity": "site-m03s03-activity",
+            "media": "site-m03s03-media"
+          }
+        }
+      ]
+    },
+    {
+      "module_id": "m04",
+      "title": "Graphic Design and Communication",
+      "timing": "Provisional teaching blocks 31-40",
+      "outcome_codes": [
+        "CMT5-COM-01",
+        "CMT5-DEP-01",
+        "CMT5-DES-01",
+        "CMT5-DES-02",
+        "CMT5-USE-01",
+        "CMT5-ENV-01",
+        "CMT5-PMP-01",
+        "CMT5-IET-01"
+      ],
+      "sections": [
+        {
+          "section_id": "m04s01",
+          "title": "Audience, design principles and ethical sources",
+          "content_descriptors": [
+            "Apply design principles, briefs, specifications, audience needs and ethical AI use in graphic communication.",
+            "Apply ethical practice, privacy, intellectual property, cultural sensitivity and ICIP responsibilities.",
+            "Use symbols, typography, composition and design principles for a communication goal and intended audience.",
+            "Apply responsible source, privacy, intellectual-property and cultural decision making.",
+            "Document ethical research, design decisions and reflection in a folio.",
+            "Justify graphic decisions for a specified audience and communication goal.",
+            "Present, evaluate and reflect on a communication technology project through a supporting folio.",
+            "Communicate a graphic solution for a defined purpose and audience.",
+            "Evaluate model or prototype communication against specifications and feedback."
+          ],
+          "source_ids": [
+            "nesa-graphic-design",
+            "nesa-principles",
+            "nesa-modelling"
+          ],
+          "learning_intention": "Connect design principles to audience and purpose while checking provenance, permission, privacy and cultural authority.",
+          "learning_sequence": [
+            "Read and annotate the named theory section.",
+            "Inspect the four teaching visuals and explain what each makes visible.",
+            "Complete the concept-linked applied learning activity.",
+            "Complete ten feedback-rich knowledge checks and revisit linked explanations.",
+            "Write the scaffolded capstone and retain a concise folio record."
+          ],
+          "evidence": "Ten feedback-rich MCQs, one section-specific long-response capstone, one applied activity response and one folio evidence record.",
+          "formative_checks": [
+            "Immediate option-specific MCQ feedback",
+            "Return-to-theory links",
+            "Applied activity response check",
+            "Module review checklist"
+          ],
+          "adjustments": [
+            "Chunk theory by the named subheadings and use the linked return anchors.",
+            "Use alt text, captions and non-video alternatives before adding teacher-selected media.",
+            "Allow a scaffolded draft before the capstone is refined and saved."
+          ],
+          "literacy_numeracy_digital": [
+            "Use precise graphics vocabulary and evidence-based justification.",
+            "Interpret proportion, scale, spatial relationships or layout where the section requires it.",
+            "Save, organise and review browser-local or Onshape evidence without treating it as formal submission."
+          ],
+          "safety_workplace": "Apply the section's general risk-thinking and responsible-use principles. Current local WHS controls, approved equipment, account routes and practical permissions remain Teacher to confirm before practical use.",
+          "resources": [
+            "Year 9 Graphics Technology course site",
+            "Module 04 classroom presentation",
+            "Four section-specific teaching visuals",
+            "Selected official NESA syllabus content",
+            "Official Onshape learning resources where CAD applies"
+          ],
+          "substantial_sequence": true,
+          "site_destinations": {
+            "theory": "site-m04s01-theory",
+            "knowledge_check": "site-m04s01-knowledge-check",
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04s01-capstone",
+                "site-m04s01-folio"
+              ]
+            },
+            "activity": "site-m04s01-activity",
+            "media": "site-m04s01-media"
+          }
+        },
+        {
+          "section_id": "m04s02",
+          "title": "Vector, raster, colour and layout",
+          "content_descriptors": [
+            "Prepare and edit images; select formats, sizes and resolutions; use grids and guides; explore RGB and CMYK for print and screen.",
+            "Produce print- or screen-based graphic solutions using suitable image, colour, format and layout decisions.",
+            "Evaluate and justify graphic format, colour and layout decisions for purpose and audience.",
+            "Document decisions, feedback and improvements in a folio.",
+            "Present, evaluate and reflect on a communication technology project through a supporting folio.",
+            "Communicate a graphic solution for a defined purpose and audience.",
+            "Evaluate model or prototype communication against specifications and feedback."
+          ],
+          "source_ids": [
+            "nesa-graphic-design",
+            "nesa-principles",
+            "nesa-modelling"
+          ],
+          "learning_intention": "Choose image structure, resolution, colour and layout according to the communication purpose, not software habit.",
+          "learning_sequence": [
+            "Read and annotate the named theory section.",
+            "Inspect the four teaching visuals and explain what each makes visible.",
+            "Complete the concept-linked applied learning activity.",
+            "Complete ten feedback-rich knowledge checks and revisit linked explanations.",
+            "Write the scaffolded capstone and retain a concise folio record."
+          ],
+          "evidence": "Ten feedback-rich MCQs, one section-specific long-response capstone, one applied activity response and one folio evidence record.",
+          "formative_checks": [
+            "Immediate option-specific MCQ feedback",
+            "Return-to-theory links",
+            "Applied activity response check",
+            "Module review checklist"
+          ],
+          "adjustments": [
+            "Chunk theory by the named subheadings and use the linked return anchors.",
+            "Use alt text, captions and non-video alternatives before adding teacher-selected media.",
+            "Allow a scaffolded draft before the capstone is refined and saved."
+          ],
+          "literacy_numeracy_digital": [
+            "Use precise graphics vocabulary and evidence-based justification.",
+            "Interpret proportion, scale, spatial relationships or layout where the section requires it.",
+            "Save, organise and review browser-local or Onshape evidence without treating it as formal submission."
+          ],
+          "safety_workplace": "Apply the section's general risk-thinking and responsible-use principles. Current local WHS controls, approved equipment, account routes and practical permissions remain Teacher to confirm before practical use.",
+          "resources": [
+            "Year 9 Graphics Technology course site",
+            "Module 04 classroom presentation",
+            "Four section-specific teaching visuals",
+            "Selected official NESA syllabus content",
+            "Official Onshape learning resources where CAD applies"
+          ],
+          "substantial_sequence": true,
+          "site_destinations": {
+            "theory": "site-m04s02-theory",
+            "knowledge_check": "site-m04s02-knowledge-check",
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04s02-capstone",
+                "site-m04s02-folio"
+              ]
+            },
+            "activity": "site-m04s02-activity",
+            "media": "site-m04s02-media"
+          }
+        },
+        {
+          "section_id": "m04s03",
+          "title": "Motion, portfolio and presentation",
+          "content_descriptors": [
+            "Use storyboards, framing, motion, 3D CAD animation and suitable formats where they improve model communication.",
+            "Arrange text and graphic features for screen-based presentation.",
+            "Use folios to document development, feedback, reflection and evaluation against criteria.",
+            "Use storyboard, framing, movement and 3D CAD animation to communicate a model where appropriate.",
+            "Select and organise significant evidence to explain project development and evaluation.",
+            "Work collaboratively, integrate feedback, manage design decisions and document evaluation.",
+            "Refine presentation choices for the intended audience and communication goal.",
+            "Present, evaluate and reflect on a communication technology project through a supporting folio.",
+            "Communicate a graphic solution for a defined purpose and audience.",
+            "Evaluate model or prototype communication against specifications and feedback."
+          ],
+          "source_ids": [
+            "nesa-modelling",
+            "nesa-graphic-design",
+            "nesa-principles"
+          ],
+          "learning_intention": "Use purposeful motion, selected development evidence and a clear presentation sequence to explain decisions.",
+          "learning_sequence": [
+            "Read and annotate the named theory section.",
+            "Inspect the four teaching visuals and explain what each makes visible.",
+            "Complete the concept-linked applied learning activity.",
+            "Complete ten feedback-rich knowledge checks and revisit linked explanations.",
+            "Write the scaffolded capstone and retain a concise folio record."
+          ],
+          "evidence": "Ten feedback-rich MCQs, one section-specific long-response capstone, one applied activity response and one folio evidence record.",
+          "formative_checks": [
+            "Immediate option-specific MCQ feedback",
+            "Return-to-theory links",
+            "Applied activity response check",
+            "Module review checklist"
+          ],
+          "adjustments": [
+            "Chunk theory by the named subheadings and use the linked return anchors.",
+            "Use alt text, captions and non-video alternatives before adding teacher-selected media.",
+            "Allow a scaffolded draft before the capstone is refined and saved."
+          ],
+          "literacy_numeracy_digital": [
+            "Use precise graphics vocabulary and evidence-based justification.",
+            "Interpret proportion, scale, spatial relationships or layout where the section requires it.",
+            "Save, organise and review browser-local or Onshape evidence without treating it as formal submission."
+          ],
+          "safety_workplace": "Apply the section's general risk-thinking and responsible-use principles. Current local WHS controls, approved equipment, account routes and practical permissions remain Teacher to confirm before practical use.",
+          "resources": [
+            "Year 9 Graphics Technology course site",
+            "Module 04 classroom presentation",
+            "Four section-specific teaching visuals",
+            "Selected official NESA syllabus content",
+            "Official Onshape learning resources where CAD applies"
+          ],
+          "substantial_sequence": true,
+          "site_destinations": {
+            "theory": "site-m04s03-theory",
+            "knowledge_check": "site-m04s03-knowledge-check",
+            "evidence": {
+              "state": "mapped",
+              "site_ids": [
+                "site-m04s03-capstone",
+                "site-m04s03-folio"
+              ]
+            },
+            "activity": "site-m04s03-activity",
+            "media": "site-m04s03-media"
+          }
+        }
+      ]
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "ttc-delivery-year",
+      "status": "Teacher to confirm",
+      "owner": "Head Teacher/faculty",
+      "affected_scope": "whole Year 9 program",
+      "due_before": "program approval",
+      "smallest_action": "Confirm first delivery year and record any approved 2027 early-adoption decision."
+    },
+    {
+      "id": "ttc-timetable",
+      "status": "Teacher to confirm",
+      "owner": "Head Teacher/faculty",
+      "affected_scope": "blocks 1-40",
+      "due_before": "delivery-register conversion",
+      "smallest_action": "Confirm local period length, cycle, term distribution and Year 9 share of the 200 hours."
+    },
+    {
+      "id": "ttc-projects",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher/faculty",
+      "affected_scope": "y9-project-a and y9-project-b",
+      "due_before": "project launch",
+      "smallest_action": "Confirm the two current Year 9 project names, briefs, sequence and authorised source artefacts."
+    },
+    {
+      "id": "ttc-assessment",
+      "status": "Teacher to confirm",
+      "owner": "Head Teacher/faculty",
+      "affected_scope": "formal assessment",
+      "due_before": "student notification",
+      "smallest_action": "Confirm task names, outcomes, weightings, dates, notification, submission and moderation arrangements."
+    },
+    {
+      "id": "ttc-whs",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher/faculty",
+      "affected_scope": "all practical blocks",
+      "due_before": "each practical",
+      "smallest_action": "Confirm current local WHS controls, approved equipment, supervision and any physical/CAM process."
+    },
+    {
+      "id": "ttc-drawing-template",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher/faculty",
+      "affected_scope": "m01s03 and m02s03",
+      "due_before": "working-drawing production",
+      "smallest_action": "Confirm the school's verified Australian drawing-standard template, units, projection and settings."
+    },
+    {
+      "id": "ttc-onshape-access",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher/ICT",
+      "affected_scope": "modules 2-4",
+      "due_before": "first Onshape practical",
+      "smallest_action": "Confirm Education tenant access, school sign-in route, permissions and naming conventions."
+    },
+    {
+      "id": "ttc-companion-software",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher/faculty",
+      "affected_scope": "module 4",
+      "due_before": "first graphic-design practical",
+      "smallest_action": "Confirm approved software for vector, raster, layout and motion work."
+    },
+    {
+      "id": "ttc-collaboration",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher",
+      "affected_scope": "block 39",
+      "due_before": "collaborative critique",
+      "smallest_action": "Confirm grouping, accessibility, privacy and feedback conditions."
+    },
+    {
+      "id": "ttc-historical-plan",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher/faculty",
+      "affected_scope": "possible Kitchen Helper lineage",
+      "due_before": "any use",
+      "smallest_action": "Confirm whether the historical Kitchen Helper plan is current, authorised and technically verified; otherwise keep excluded."
+    }
+  ],
+  "site_mapping": [
+    {
+      "site_id": "site-m01s01-theory",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Named source-grounded theory section",
+      "module_id": "m01",
+      "section_id": "m01s01",
+      "anchor": "m01s01-theory"
+    },
+    {
+      "site_id": "site-m01s01-knowledge-check",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Ten feedback-rich formative knowledge checks",
+      "module_id": "m01",
+      "section_id": "m01s01",
+      "anchor": "m01s01-check"
+    },
+    {
+      "site_id": "site-m01s01-capstone",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long-response capstone",
+      "module_id": "m01",
+      "section_id": "m01s01",
+      "anchor": "m01s01-long-response"
+    },
+    {
+      "site_id": "site-m01s01-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Concept-linked applied learning activity",
+      "module_id": "m01",
+      "section_id": "m01s01",
+      "anchor": "ala-m01s01-line-and-risk-dispatch"
+    },
+    {
+      "site_id": "site-m01s01-media",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Purposeful media pathway or source-grounded non-video alternative",
+      "module_id": "m01",
+      "section_id": "m01s01",
+      "anchor": "m01s01-media"
+    },
+    {
+      "site_id": "site-m01s01-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Section evidence record and caption prompt",
+      "module_id": "m01",
+      "section_id": "m01s01",
+      "anchor": "folio-m01s01-line-language"
+    },
+    {
+      "site_id": "site-m01s02-theory",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Named source-grounded theory section",
+      "module_id": "m01",
+      "section_id": "m01s02",
+      "anchor": "m01s02-theory"
+    },
+    {
+      "site_id": "site-m01s02-knowledge-check",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Ten feedback-rich formative knowledge checks",
+      "module_id": "m01",
+      "section_id": "m01s02",
+      "anchor": "m01s02-check"
+    },
+    {
+      "site_id": "site-m01s02-capstone",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long-response capstone",
+      "module_id": "m01",
+      "section_id": "m01s02",
+      "anchor": "m01s02-long-response"
+    },
+    {
+      "site_id": "site-m01s02-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Concept-linked applied learning activity",
+      "module_id": "m01",
+      "section_id": "m01s02",
+      "anchor": "ala-m01s02-light-logic"
+    },
+    {
+      "site_id": "site-m01s02-media",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Purposeful media pathway or source-grounded non-video alternative",
+      "module_id": "m01",
+      "section_id": "m01s02",
+      "anchor": "m01s02-media"
+    },
+    {
+      "site_id": "site-m01s02-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Section evidence record and caption prompt",
+      "module_id": "m01",
+      "section_id": "m01s02",
+      "anchor": "folio-m01s02-sketch-development"
+    },
+    {
+      "site_id": "site-m01s03-theory",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Named source-grounded theory section",
+      "module_id": "m01",
+      "section_id": "m01s03",
+      "anchor": "m01s03-theory"
+    },
+    {
+      "site_id": "site-m01s03-knowledge-check",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Ten feedback-rich formative knowledge checks",
+      "module_id": "m01",
+      "section_id": "m01s03",
+      "anchor": "m01s03-check"
+    },
+    {
+      "site_id": "site-m01s03-capstone",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long-response capstone",
+      "module_id": "m01",
+      "section_id": "m01s03",
+      "anchor": "m01s03-long-response"
+    },
+    {
+      "site_id": "site-m01s03-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Concept-linked applied learning activity",
+      "module_id": "m01",
+      "section_id": "m01s03",
+      "anchor": "ala-m01s03-view-detective"
+    },
+    {
+      "site_id": "site-m01s03-media",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Purposeful media pathway or source-grounded non-video alternative",
+      "module_id": "m01",
+      "section_id": "m01s03",
+      "anchor": "m01s03-media"
+    },
+    {
+      "site_id": "site-m01s03-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Section evidence record and caption prompt",
+      "module_id": "m01",
+      "section_id": "m01s03",
+      "anchor": "folio-m01s03-views-dimensions"
+    },
+    {
+      "site_id": "site-m01-review",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Visible module review checklist linked to all three section packages",
+      "module_id": "m01",
+      "anchor": "m01-review"
+    },
+    {
+      "site_id": "site-m01-presentation",
+      "route": "assets/presentations/module-01-drawing-foundations.pptx",
+      "audience": "teacher",
+      "purpose": "Editable eight-slide classroom presentation",
+      "module_id": "m01"
+    },
+    {
+      "site_id": "site-m02s01-theory",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Named source-grounded theory section",
+      "module_id": "m02",
+      "section_id": "m02s01",
+      "anchor": "m02s01-theory"
+    },
+    {
+      "site_id": "site-m02s01-knowledge-check",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Ten feedback-rich formative knowledge checks",
+      "module_id": "m02",
+      "section_id": "m02s01",
+      "anchor": "m02s01-check"
+    },
+    {
+      "site_id": "site-m02s01-capstone",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long-response capstone",
+      "module_id": "m02",
+      "section_id": "m02s01",
+      "anchor": "m02s01-long-response"
+    },
+    {
+      "site_id": "site-m02s01-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Concept-linked applied learning activity",
+      "module_id": "m02",
+      "section_id": "m02s01",
+      "anchor": "ala-m02s01-constraint-clinic"
+    },
+    {
+      "site_id": "site-m02s01-media",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Purposeful media pathway or source-grounded non-video alternative",
+      "module_id": "m02",
+      "section_id": "m02s01",
+      "anchor": "m02s01-media"
+    },
+    {
+      "site_id": "site-m02s01-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Section evidence record and caption prompt",
+      "module_id": "m02",
+      "section_id": "m02s01",
+      "anchor": "folio-m02s01-constraint-intent"
+    },
+    {
+      "site_id": "site-m02s02-theory",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Named source-grounded theory section",
+      "module_id": "m02",
+      "section_id": "m02s02",
+      "anchor": "m02s02-theory"
+    },
+    {
+      "site_id": "site-m02s02-knowledge-check",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Ten feedback-rich formative knowledge checks",
+      "module_id": "m02",
+      "section_id": "m02s02",
+      "anchor": "m02s02-check"
+    },
+    {
+      "site_id": "site-m02s02-capstone",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long-response capstone",
+      "module_id": "m02",
+      "section_id": "m02s02",
+      "anchor": "m02s02-long-response"
+    },
+    {
+      "site_id": "site-m02s02-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Concept-linked applied learning activity",
+      "module_id": "m02",
+      "section_id": "m02s02",
+      "anchor": "ala-m02s02-feature-history-triage"
+    },
+    {
+      "site_id": "site-m02s02-media",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Purposeful media pathway or source-grounded non-video alternative",
+      "module_id": "m02",
+      "section_id": "m02s02",
+      "anchor": "m02s02-media"
+    },
+    {
+      "site_id": "site-m02s02-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Section evidence record and caption prompt",
+      "module_id": "m02",
+      "section_id": "m02s02",
+      "anchor": "folio-m02s02-feature-decision"
+    },
+    {
+      "site_id": "site-m02s03-theory",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Named source-grounded theory section",
+      "module_id": "m02",
+      "section_id": "m02s03",
+      "anchor": "m02s03-theory"
+    },
+    {
+      "site_id": "site-m02s03-knowledge-check",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Ten feedback-rich formative knowledge checks",
+      "module_id": "m02",
+      "section_id": "m02s03",
+      "anchor": "m02s03-check"
+    },
+    {
+      "site_id": "site-m02s03-capstone",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long-response capstone",
+      "module_id": "m02",
+      "section_id": "m02s03",
+      "anchor": "m02s03-long-response"
+    },
+    {
+      "site_id": "site-m02s03-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Concept-linked applied learning activity",
+      "module_id": "m02",
+      "section_id": "m02s03",
+      "anchor": "ala-m02s03-handoff-checkpoint"
+    },
+    {
+      "site_id": "site-m02s03-media",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Purposeful media pathway or source-grounded non-video alternative",
+      "module_id": "m02",
+      "section_id": "m02s03",
+      "anchor": "m02s03-media"
+    },
+    {
+      "site_id": "site-m02s03-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Section evidence record and caption prompt",
+      "module_id": "m02",
+      "section_id": "m02s03",
+      "anchor": "folio-m02s03-onshape-handoff"
+    },
+    {
+      "site_id": "site-m02-review",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Visible module review checklist linked to all three section packages",
+      "module_id": "m02",
+      "anchor": "m02-review"
+    },
+    {
+      "site_id": "site-m02-presentation",
+      "route": "assets/presentations/module-02-onshape-product-drawing.pptx",
+      "audience": "teacher",
+      "purpose": "Editable eight-slide classroom presentation",
+      "module_id": "m02"
+    },
+    {
+      "site_id": "site-m03s01-theory",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Named source-grounded theory section",
+      "module_id": "m03",
+      "section_id": "m03s01",
+      "anchor": "m03s01-theory"
+    },
+    {
+      "site_id": "site-m03s01-knowledge-check",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Ten feedback-rich formative knowledge checks",
+      "module_id": "m03",
+      "section_id": "m03s01",
+      "anchor": "m03s01-check"
+    },
+    {
+      "site_id": "site-m03s01-capstone",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long-response capstone",
+      "module_id": "m03",
+      "section_id": "m03s01",
+      "anchor": "m03s01-long-response"
+    },
+    {
+      "site_id": "site-m03s01-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Concept-linked applied learning activity",
+      "module_id": "m03",
+      "section_id": "m03s01",
+      "anchor": "ala-m03s01-evidence-before-preference"
+    },
+    {
+      "site_id": "site-m03s01-media",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Purposeful media pathway or source-grounded non-video alternative",
+      "module_id": "m03",
+      "section_id": "m03s01",
+      "anchor": "m03s01-media"
+    },
+    {
+      "site_id": "site-m03s01-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Section evidence record and caption prompt",
+      "module_id": "m03",
+      "section_id": "m03s01",
+      "anchor": "folio-m03s01-concept-rationale"
+    },
+    {
+      "site_id": "site-m03s02-theory",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Named source-grounded theory section",
+      "module_id": "m03",
+      "section_id": "m03s02",
+      "anchor": "m03s02-theory"
+    },
+    {
+      "site_id": "site-m03s02-knowledge-check",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Ten feedback-rich formative knowledge checks",
+      "module_id": "m03",
+      "section_id": "m03s02",
+      "anchor": "m03s02-check"
+    },
+    {
+      "site_id": "site-m03s02-capstone",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long-response capstone",
+      "module_id": "m03",
+      "section_id": "m03s02",
+      "anchor": "m03s02-long-response"
+    },
+    {
+      "site_id": "site-m03s02-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Concept-linked applied learning activity",
+      "module_id": "m03",
+      "section_id": "m03s02",
+      "anchor": "ala-m03s02-part-record-repair"
+    },
+    {
+      "site_id": "site-m03s02-media",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Purposeful media pathway or source-grounded non-video alternative",
+      "module_id": "m03",
+      "section_id": "m03s02",
+      "anchor": "m03s02-media"
+    },
+    {
+      "site_id": "site-m03s02-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Section evidence record and caption prompt",
+      "module_id": "m03",
+      "section_id": "m03s02",
+      "anchor": "folio-m03s02-parts-assembly"
+    },
+    {
+      "site_id": "site-m03s03-theory",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Named source-grounded theory section",
+      "module_id": "m03",
+      "section_id": "m03s03",
+      "anchor": "m03s03-theory"
+    },
+    {
+      "site_id": "site-m03s03-knowledge-check",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Ten feedback-rich formative knowledge checks",
+      "module_id": "m03",
+      "section_id": "m03s03",
+      "anchor": "m03s03-check"
+    },
+    {
+      "site_id": "site-m03s03-capstone",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long-response capstone",
+      "module_id": "m03",
+      "section_id": "m03s03",
+      "anchor": "m03s03-long-response"
+    },
+    {
+      "site_id": "site-m03s03-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Concept-linked applied learning activity",
+      "module_id": "m03",
+      "section_id": "m03s03",
+      "anchor": "ala-m03s03-test-evidence-decide"
+    },
+    {
+      "site_id": "site-m03s03-media",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Purposeful media pathway or source-grounded non-video alternative",
+      "module_id": "m03",
+      "section_id": "m03s03",
+      "anchor": "m03s03-media"
+    },
+    {
+      "site_id": "site-m03s03-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Section evidence record and caption prompt",
+      "module_id": "m03",
+      "section_id": "m03s03",
+      "anchor": "folio-m03s03-prototype-evaluation"
+    },
+    {
+      "site_id": "site-m03-review",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Visible module review checklist linked to all three section packages",
+      "module_id": "m03",
+      "anchor": "m03-review"
+    },
+    {
+      "site_id": "site-m03-presentation",
+      "route": "assets/presentations/module-03-graphic-modelling-prototyping.pptx",
+      "audience": "teacher",
+      "purpose": "Editable eight-slide classroom presentation",
+      "module_id": "m03"
+    },
+    {
+      "site_id": "site-m04s01-theory",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Named source-grounded theory section",
+      "module_id": "m04",
+      "section_id": "m04s01",
+      "anchor": "m04s01-theory"
+    },
+    {
+      "site_id": "site-m04s01-knowledge-check",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Ten feedback-rich formative knowledge checks",
+      "module_id": "m04",
+      "section_id": "m04s01",
+      "anchor": "m04s01-check"
+    },
+    {
+      "site_id": "site-m04s01-capstone",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long-response capstone",
+      "module_id": "m04",
+      "section_id": "m04s01",
+      "anchor": "m04s01-long-response"
+    },
+    {
+      "site_id": "site-m04s01-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Concept-linked applied learning activity",
+      "module_id": "m04",
+      "section_id": "m04s01",
+      "anchor": "ala-m04s01-audience-source-check"
+    },
+    {
+      "site_id": "site-m04s01-media",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Purposeful media pathway or source-grounded non-video alternative",
+      "module_id": "m04",
+      "section_id": "m04s01",
+      "anchor": "m04s01-media"
+    },
+    {
+      "site_id": "site-m04s01-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Section evidence record and caption prompt",
+      "module_id": "m04",
+      "section_id": "m04s01",
+      "anchor": "folio-m04s01-audience-source"
+    },
+    {
+      "site_id": "site-m04s02-theory",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Named source-grounded theory section",
+      "module_id": "m04",
+      "section_id": "m04s02",
+      "anchor": "m04s02-theory"
+    },
+    {
+      "site_id": "site-m04s02-knowledge-check",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Ten feedback-rich formative knowledge checks",
+      "module_id": "m04",
+      "section_id": "m04s02",
+      "anchor": "m04s02-check"
+    },
+    {
+      "site_id": "site-m04s02-capstone",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long-response capstone",
+      "module_id": "m04",
+      "section_id": "m04s02",
+      "anchor": "m04s02-long-response"
+    },
+    {
+      "site_id": "site-m04s02-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Concept-linked applied learning activity",
+      "module_id": "m04",
+      "section_id": "m04s02",
+      "anchor": "ala-m04s02-pixel-or-path"
+    },
+    {
+      "site_id": "site-m04s02-media",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Purposeful media pathway or source-grounded non-video alternative",
+      "module_id": "m04",
+      "section_id": "m04s02",
+      "anchor": "m04s02-media"
+    },
+    {
+      "site_id": "site-m04s02-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Section evidence record and caption prompt",
+      "module_id": "m04",
+      "section_id": "m04s02",
+      "anchor": "folio-m04s02-output-rationale"
+    },
+    {
+      "site_id": "site-m04s03-theory",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Named source-grounded theory section",
+      "module_id": "m04",
+      "section_id": "m04s03",
+      "anchor": "m04s03-theory"
+    },
+    {
+      "site_id": "site-m04s03-knowledge-check",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Ten feedback-rich formative knowledge checks",
+      "module_id": "m04",
+      "section_id": "m04s03",
+      "anchor": "m04s03-check"
+    },
+    {
+      "site_id": "site-m04s03-capstone",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Scaffolded higher-order long-response capstone",
+      "module_id": "m04",
+      "section_id": "m04s03",
+      "anchor": "m04s03-long-response"
+    },
+    {
+      "site_id": "site-m04s03-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Concept-linked applied learning activity",
+      "module_id": "m04",
+      "section_id": "m04s03",
+      "anchor": "ala-m04s03-portfolio-story-edit"
+    },
+    {
+      "site_id": "site-m04s03-media",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Purposeful media pathway or source-grounded non-video alternative",
+      "module_id": "m04",
+      "section_id": "m04s03",
+      "anchor": "m04s03-media"
+    },
+    {
+      "site_id": "site-m04s03-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Section evidence record and caption prompt",
+      "module_id": "m04",
+      "section_id": "m04s03",
+      "anchor": "folio-m04s03-presentation-evaluation"
+    },
+    {
+      "site_id": "site-m04-review",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Visible module review checklist linked to all three section packages",
+      "module_id": "m04",
+      "anchor": "m04-review"
+    },
+    {
+      "site_id": "site-m04-presentation",
+      "route": "assets/presentations/module-04-graphic-design-communication.pptx",
+      "audience": "teacher",
+      "purpose": "Editable eight-slide classroom presentation",
+      "module_id": "m04"
+    },
+    {
+      "site_id": "site-m01-puzzle",
+      "route": "puzzles.html",
+      "audience": "student",
+      "purpose": "Module-specific retrieval puzzle",
+      "module_id": "m01",
+      "anchor": "puzzle-m01-projection-post"
+    },
+    {
+      "site_id": "site-m02-puzzle",
+      "route": "puzzles.html",
+      "audience": "student",
+      "purpose": "Module-specific retrieval puzzle",
+      "module_id": "m02",
+      "anchor": "puzzle-m02-intent-chain"
+    },
+    {
+      "site_id": "site-m03-puzzle",
+      "route": "puzzles.html",
+      "audience": "student",
+      "purpose": "Module-specific retrieval puzzle",
+      "module_id": "m03",
+      "anchor": "puzzle-m03-assembly-audit"
+    },
+    {
+      "site_id": "site-m04-puzzle",
+      "route": "puzzles.html",
+      "audience": "student",
+      "purpose": "Module-specific retrieval puzzle",
+      "module_id": "m04",
+      "anchor": "puzzle-m04-portfolio-sequence"
+    }
+  ],
+  "delivery_register": {
+    "status": "provisional-40-block-sequence",
+    "entries": [
+      {
+        "period": 1,
+        "planned_focus": "Course boundary, risk-aware start and line language",
+        "site_ids": [
+          "site-m01s01-theory",
+          "site-m01s01-knowledge-check",
+          "site-m01s01-activity",
+          "site-m01s01-media",
+          "site-m01s01-capstone",
+          "site-m01s01-folio"
+        ],
+        "planned_evidence": "Annotated risk-thinking scenario; Line-purpose classification",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 2,
+        "planned_focus": "Instrument selection and line-purpose practice",
+        "site_ids": [
+          "site-m01s01-theory",
+          "site-m01s01-knowledge-check",
+          "site-m01s01-activity",
+          "site-m01s01-media",
+          "site-m01s01-capstone",
+          "site-m01s01-folio"
+        ],
+        "planned_evidence": "Teacher-observed tool-selection reasoning; Line sample with purpose annotations",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 3,
+        "planned_focus": "Safe-studio and line-language evidence package",
+        "site_ids": [
+          "site-m01s01-theory",
+          "site-m01s01-knowledge-check",
+          "site-m01s01-activity",
+          "site-m01s01-media",
+          "site-m01s01-capstone",
+          "site-m01s01-folio"
+        ],
+        "planned_evidence": "10 checked MCQs; Section capstone; Folio decision record",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 4,
+        "planned_focus": "Sketching, construction and rendering as different communication moves",
+        "site_ids": [
+          "site-m01s02-theory",
+          "site-m01s02-knowledge-check",
+          "site-m01s02-activity",
+          "site-m01s02-media",
+          "site-m01s02-capstone",
+          "site-m01s02-folio"
+        ],
+        "planned_evidence": "Three-state visual annotation; Construction-reasoning explanation",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 5,
+        "planned_focus": "Geometric construction and coherent rendering",
+        "site_ids": [
+          "site-m01s02-theory",
+          "site-m01s02-knowledge-check",
+          "site-m01s02-activity",
+          "site-m01s02-media",
+          "site-m01s02-capstone",
+          "site-m01s02-folio"
+        ],
+        "planned_evidence": "Construction sequence; Before-and-after rendered form; Short accuracy check",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 6,
+        "planned_focus": "Sketch-to-render evidence package",
+        "site_ids": [
+          "site-m01s02-theory",
+          "site-m01s02-knowledge-check",
+          "site-m01s02-activity",
+          "site-m01s02-media",
+          "site-m01s02-capstone",
+          "site-m01s02-folio"
+        ],
+        "planned_evidence": "10 checked MCQs; Section capstone; Three-stage folio comparison",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 7,
+        "planned_focus": "One object, coordinated views and controlled dimensions",
+        "site_ids": [
+          "site-m01s03-theory",
+          "site-m01s03-knowledge-check",
+          "site-m01s03-activity",
+          "site-m01s03-media",
+          "site-m01s03-capstone",
+          "site-m01s03-folio"
+        ],
+        "planned_evidence": "Object-to-view reasoning map; Dimension-purpose critique",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 8,
+        "planned_focus": "Coordinated view and dimensioning practice",
+        "site_ids": [
+          "site-m01s03-theory",
+          "site-m01s03-knowledge-check",
+          "site-m01s03-activity",
+          "site-m01s03-media",
+          "site-m01s03-capstone",
+          "site-m01s03-folio"
+        ],
+        "planned_evidence": "Coordinated view set; Dimension selection rationale; Cross-view correction note",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 9,
+        "planned_focus": "Views, projection and dimensions evidence package",
+        "site_ids": [
+          "site-m01s03-theory",
+          "site-m01s03-knowledge-check",
+          "site-m01s03-activity",
+          "site-m01s03-media",
+          "site-m01s03-capstone",
+          "site-m01s03-folio"
+        ],
+        "planned_evidence": "10 checked MCQs; Section capstone; Coordinated-view folio card",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 10,
+        "planned_focus": "Module review and Project A foundation checkpoint",
+        "site_ids": [
+          "site-m01s01-theory",
+          "site-m01s01-knowledge-check",
+          "site-m01s01-activity",
+          "site-m01s01-media",
+          "site-m01s01-capstone",
+          "site-m01s01-folio",
+          "site-m01s02-theory",
+          "site-m01s02-knowledge-check",
+          "site-m01s02-activity",
+          "site-m01s02-media",
+          "site-m01s02-capstone",
+          "site-m01s02-folio",
+          "site-m01s03-theory",
+          "site-m01s03-knowledge-check",
+          "site-m01s03-activity",
+          "site-m01s03-media",
+          "site-m01s03-capstone",
+          "site-m01s03-folio",
+          "site-m01-review"
+        ],
+        "planned_evidence": "m01 review checklist; Project A foundation checkpoint; Folio evidence selection rationale",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 11,
+        "planned_focus": "Onshape document map, sketch planes and constraints",
+        "site_ids": [
+          "site-m02s01-theory",
+          "site-m02s01-knowledge-check",
+          "site-m02s01-activity",
+          "site-m02s01-media",
+          "site-m02s01-capstone",
+          "site-m02s01-folio"
+        ],
+        "planned_evidence": "Onshape document concept map; Plane-choice explanation; Constraint prediction",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 12,
+        "planned_focus": "Constrained Onshape sketch",
+        "site_ids": [
+          "site-m02s01-theory",
+          "site-m02s01-knowledge-check",
+          "site-m02s01-activity",
+          "site-m02s01-media",
+          "site-m02s01-capstone",
+          "site-m02s01-folio"
+        ],
+        "planned_evidence": "Constrained sketch screenshot; Constraint-purpose annotations; Conflict-resolution note",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 13,
+        "planned_focus": "Constraint-intent evidence package",
+        "site_ids": [
+          "site-m02s01-theory",
+          "site-m02s01-knowledge-check",
+          "site-m02s01-activity",
+          "site-m02s01-media",
+          "site-m02s01-capstone",
+          "site-m02s01-folio"
+        ],
+        "planned_evidence": "10 checked MCQs; Section capstone; Constraint-intent folio card",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 14,
+        "planned_focus": "Features, history and robust design intent",
+        "site_ids": [
+          "site-m02s02-theory",
+          "site-m02s02-knowledge-check",
+          "site-m02s02-activity",
+          "site-m02s02-media",
+          "site-m02s02-capstone",
+          "site-m02s02-folio"
+        ],
+        "planned_evidence": "Feature-history dependency trace; Result-type classification; Predicted change response",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 15,
+        "planned_focus": "Onshape feature sequence and change test",
+        "site_ids": [
+          "site-m02s02-theory",
+          "site-m02s02-knowledge-check",
+          "site-m02s02-activity",
+          "site-m02s02-media",
+          "site-m02s02-capstone",
+          "site-m02s02-folio"
+        ],
+        "planned_evidence": "Feature tree screenshot; Before-and-after change evidence; Robustness explanation",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 16,
+        "planned_focus": "Feature-history evidence package",
+        "site_ids": [
+          "site-m02s02-theory",
+          "site-m02s02-knowledge-check",
+          "site-m02s02-activity",
+          "site-m02s02-media",
+          "site-m02s02-capstone",
+          "site-m02s02-folio"
+        ],
+        "planned_evidence": "10 checked MCQs; Section capstone; Feature-change folio card",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 17,
+        "planned_focus": "Model, drawing, export and version as different information states",
+        "site_ids": [
+          "site-m02s03-theory",
+          "site-m02s03-knowledge-check",
+          "site-m02s03-activity",
+          "site-m02s03-media",
+          "site-m02s03-capstone",
+          "site-m02s03-folio"
+        ],
+        "planned_evidence": "Workspace-version-export comparison; Audience-format decision; Drawing update check",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 18,
+        "planned_focus": "Onshape drawing and controlled handoff",
+        "site_ids": [
+          "site-m02s03-theory",
+          "site-m02s03-knowledge-check",
+          "site-m02s03-activity",
+          "site-m02s03-media",
+          "site-m02s03-capstone",
+          "site-m02s03-folio"
+        ],
+        "planned_evidence": "Onshape drawing screenshot; Named-version record; Export-purpose rationale",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 19,
+        "planned_focus": "Drawing, export and version evidence package",
+        "site_ids": [
+          "site-m02s03-theory",
+          "site-m02s03-knowledge-check",
+          "site-m02s03-activity",
+          "site-m02s03-media",
+          "site-m02s03-capstone",
+          "site-m02s03-folio"
+        ],
+        "planned_evidence": "10 checked MCQs; Section capstone; Drawing-version-export folio card",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 20,
+        "planned_focus": "Module review and Project A folio gate",
+        "site_ids": [
+          "site-m02s01-theory",
+          "site-m02s01-knowledge-check",
+          "site-m02s01-activity",
+          "site-m02s01-media",
+          "site-m02s01-capstone",
+          "site-m02s01-folio",
+          "site-m02s02-theory",
+          "site-m02s02-knowledge-check",
+          "site-m02s02-activity",
+          "site-m02s02-media",
+          "site-m02s02-capstone",
+          "site-m02s02-folio",
+          "site-m02s03-theory",
+          "site-m02s03-knowledge-check",
+          "site-m02s03-activity",
+          "site-m02s03-media",
+          "site-m02s03-capstone",
+          "site-m02s03-folio",
+          "site-m02-review"
+        ],
+        "planned_evidence": "m02 review checklist; Project A folio gate; Unresolved-authority record",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 21,
+        "planned_focus": "Research evidence, brief, specification and concept choice",
+        "site_ids": [
+          "site-m03s01-theory",
+          "site-m03s01-knowledge-check",
+          "site-m03s01-activity",
+          "site-m03s01-media",
+          "site-m03s01-capstone",
+          "site-m03s01-folio"
+        ],
+        "planned_evidence": "Research evidence classification; Draft brief and specification; Concept comparison matrix",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 22,
+        "planned_focus": "Product evidence audit and concept generation",
+        "site_ids": [
+          "site-m03s01-theory",
+          "site-m03s01-knowledge-check",
+          "site-m03s01-activity",
+          "site-m03s01-media",
+          "site-m03s01-capstone",
+          "site-m03s01-folio"
+        ],
+        "planned_evidence": "Observation-inference-opportunity table; Concept thumbnails; Criteria-based comparison",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 23,
+        "planned_focus": "Research and concept-choice evidence package",
+        "site_ids": [
+          "site-m03s01-theory",
+          "site-m03s01-knowledge-check",
+          "site-m03s01-activity",
+          "site-m03s01-media",
+          "site-m03s01-capstone",
+          "site-m03s01-folio"
+        ],
+        "planned_evidence": "10 checked MCQs; Section capstone; Research-and-choice folio card",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 24,
+        "planned_focus": "Part hierarchy, cutting lists, parts lists and assemblies",
+        "site_ids": [
+          "site-m03s02-theory",
+          "site-m03s02-knowledge-check",
+          "site-m03s02-activity",
+          "site-m03s02-media",
+          "site-m03s02-capstone",
+          "site-m03s02-folio"
+        ],
+        "planned_evidence": "Part hierarchy diagram; Cutting-list versus parts-list comparison; Assembly relationship trace",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 25,
+        "planned_focus": "Onshape assembly and list relationship",
+        "site_ids": [
+          "site-m03s02-theory",
+          "site-m03s02-knowledge-check",
+          "site-m03s02-activity",
+          "site-m03s02-media",
+          "site-m03s02-capstone",
+          "site-m03s02-folio"
+        ],
+        "planned_evidence": "Assembly hierarchy screenshot; Exploded view; Item-quantity relationship record",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 26,
+        "planned_focus": "Parts and assembly evidence package",
+        "site_ids": [
+          "site-m03s02-theory",
+          "site-m03s02-knowledge-check",
+          "site-m03s02-activity",
+          "site-m03s02-media",
+          "site-m03s02-capstone",
+          "site-m03s02-folio"
+        ],
+        "planned_evidence": "10 checked MCQs; Section capstone; Parts-and-assembly folio card",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 27,
+        "planned_focus": "Prototype purpose, test evidence, feedback and evaluation",
+        "site_ids": [
+          "site-m03s03-theory",
+          "site-m03s03-knowledge-check",
+          "site-m03s03-activity",
+          "site-m03s03-media",
+          "site-m03s03-capstone",
+          "site-m03s03-folio"
+        ],
+        "planned_evidence": "Prototype-purpose choice; Criterion-method-evidence-decision test plan; Feedback-to-revision link",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 28,
+        "planned_focus": "Digital prototype test and revision in Onshape",
+        "site_ids": [
+          "site-m03s03-theory",
+          "site-m03s03-knowledge-check",
+          "site-m03s03-activity",
+          "site-m03s03-media",
+          "site-m03s03-capstone",
+          "site-m03s03-folio"
+        ],
+        "planned_evidence": "Digital test record; Named-version comparison; Evidence-based revision note",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 29,
+        "planned_focus": "Prototype-test evidence package",
+        "site_ids": [
+          "site-m03s03-theory",
+          "site-m03s03-knowledge-check",
+          "site-m03s03-activity",
+          "site-m03s03-media",
+          "site-m03s03-capstone",
+          "site-m03s03-folio"
+        ],
+        "planned_evidence": "10 checked MCQs; Section capstone; Test-revision-evaluation folio card",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 30,
+        "planned_focus": "Module review and Project B development checkpoint",
+        "site_ids": [
+          "site-m03s01-theory",
+          "site-m03s01-knowledge-check",
+          "site-m03s01-activity",
+          "site-m03s01-media",
+          "site-m03s01-capstone",
+          "site-m03s01-folio",
+          "site-m03s02-theory",
+          "site-m03s02-knowledge-check",
+          "site-m03s02-activity",
+          "site-m03s02-media",
+          "site-m03s02-capstone",
+          "site-m03s02-folio",
+          "site-m03s03-theory",
+          "site-m03s03-knowledge-check",
+          "site-m03s03-activity",
+          "site-m03s03-media",
+          "site-m03s03-capstone",
+          "site-m03s03-folio",
+          "site-m03-review"
+        ],
+        "planned_evidence": "m03 review checklist; Project B development checkpoint; Communication-gap note",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 31,
+        "planned_focus": "Audience, design principles and ethical sources",
+        "site_ids": [
+          "site-m04s01-theory",
+          "site-m04s01-knowledge-check",
+          "site-m04s01-activity",
+          "site-m04s01-media",
+          "site-m04s01-capstone",
+          "site-m04s01-folio"
+        ],
+        "planned_evidence": "Audience notice-understand-act profile; Design-principle annotation; Source and cultural-care decision",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 32,
+        "planned_focus": "Audience-led visual and source audit",
+        "site_ids": [
+          "site-m04s01-theory",
+          "site-m04s01-knowledge-check",
+          "site-m04s01-activity",
+          "site-m04s01-media",
+          "site-m04s01-capstone",
+          "site-m04s01-folio"
+        ],
+        "planned_evidence": "Source-decision audit; Two audience-led concept directions; Design-principle annotations",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 33,
+        "planned_focus": "Audience and source-ethics evidence package",
+        "site_ids": [
+          "site-m04s01-theory",
+          "site-m04s01-knowledge-check",
+          "site-m04s01-activity",
+          "site-m04s01-media",
+          "site-m04s01-capstone",
+          "site-m04s01-folio"
+        ],
+        "planned_evidence": "10 checked MCQs; Section capstone; Audience-and-source folio card",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 34,
+        "planned_focus": "Vector, raster, colour and layout decisions",
+        "site_ids": [
+          "site-m04s02-theory",
+          "site-m04s02-knowledge-check",
+          "site-m04s02-activity",
+          "site-m04s02-media",
+          "site-m04s02-capstone",
+          "site-m04s02-folio"
+        ],
+        "planned_evidence": "Vector-raster decision; Resolution and output explanation; Layout hierarchy annotation",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 35,
+        "planned_focus": "Tool-neutral layout and output proof",
+        "site_ids": [
+          "site-m04s02-theory",
+          "site-m04s02-knowledge-check",
+          "site-m04s02-activity",
+          "site-m04s02-media",
+          "site-m04s02-capstone",
+          "site-m04s02-folio"
+        ],
+        "planned_evidence": "Working layout; Output proof; Format-colour-layout rationale",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 36,
+        "planned_focus": "Format, colour and layout evidence package",
+        "site_ids": [
+          "site-m04s02-theory",
+          "site-m04s02-knowledge-check",
+          "site-m04s02-activity",
+          "site-m04s02-media",
+          "site-m04s02-capstone",
+          "site-m04s02-folio"
+        ],
+        "planned_evidence": "10 checked MCQs; Section capstone; Layout-output folio card",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 37,
+        "planned_focus": "Purposeful motion, portfolio curation and audience-facing presentation",
+        "site_ids": [
+          "site-m04s03-theory",
+          "site-m04s03-knowledge-check",
+          "site-m04s03-activity",
+          "site-m04s03-media",
+          "site-m04s03-capstone",
+          "site-m04s03-folio"
+        ],
+        "planned_evidence": "Motion-purpose decision; Storyboard annotation; Portfolio evidence sequence",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 38,
+        "planned_focus": "Storyboard, accessible sequence and portfolio assembly",
+        "site_ids": [
+          "site-m04s03-theory",
+          "site-m04s03-knowledge-check",
+          "site-m04s03-activity",
+          "site-m04s03-media",
+          "site-m04s03-capstone",
+          "site-m04s03-folio"
+        ],
+        "planned_evidence": "Six-frame storyboard; Accessible alternative; Curated portfolio sequence",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 39,
+        "planned_focus": "Collaborative critique and evidence-led revision",
+        "site_ids": [
+          "site-m04s03-theory",
+          "site-m04s03-knowledge-check",
+          "site-m04s03-activity",
+          "site-m04s03-media",
+          "site-m04s03-capstone",
+          "site-m04s03-folio"
+        ],
+        "planned_evidence": "Peer-feedback record; Accept-reject-revise decision; Revised portfolio or presentation evidence",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": 40,
+        "planned_focus": "Final section package, module review and Year 9 handoff",
+        "site_ids": [
+          "site-m04s01-theory",
+          "site-m04s01-knowledge-check",
+          "site-m04s01-activity",
+          "site-m04s01-media",
+          "site-m04s01-capstone",
+          "site-m04s01-folio",
+          "site-m04s02-theory",
+          "site-m04s02-knowledge-check",
+          "site-m04s02-activity",
+          "site-m04s02-media",
+          "site-m04s02-capstone",
+          "site-m04s02-folio",
+          "site-m04s03-theory",
+          "site-m04s03-knowledge-check",
+          "site-m04s03-activity",
+          "site-m04s03-media",
+          "site-m04s03-capstone",
+          "site-m04s03-folio",
+          "site-m04-review"
+        ],
+        "planned_evidence": "10 checked MCQs; m04s03 capstone; m04 review checklist; Project B Year 9 folio gate; Year 10 carry-forward note",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "editable-program",
+      "path": "year-9-graphics-teaching-program.docx",
+      "sha256": "a23936f7f388cd04ac67106a1f9c8467a337ff5c0bbbd1f47636900ce4fa7b1b"
+    },
+    {
+      "role": "rendered-program",
+      "path": "year-9-graphics-teaching-program.pdf",
+      "sha256": "e18b50b006bf370b699e9ccd47089e110691e443537f9cde352bd9589ca549b0"
+    },
+    {
+      "role": "master-editable-program",
+      "path": "stage-5-graphics-200-hour-master-program.docx",
+      "sha256": "785f65b85f830759f12f8136576d7b26f69668e32271f06777690f26d32f2346"
+    },
+    {
+      "role": "master-rendered-program",
+      "path": "stage-5-graphics-200-hour-master-program.pdf",
+      "sha256": "cfe5a4b21047d3f5422be3b25f1e99148ef58047c869e70844722106eed184a0"
+    },
+    {
+      "role": "delivery-register",
+      "path": "year-9-graphics-alignment-and-delivery-register.xlsx",
+      "sha256": "74a84a3be49ae382167c245c498351fd49f03e3a2a4935a1fabb7be87c22178e"
+    },
+    {
+      "role": "site-map",
+      "path": "teacher-program-site-map-v1.0.0.json",
+      "sha256": "5294daa80def9650e9f8494b5c4af351440715a392d054a2b39d9650a0f02f61"
+    }
+  ]
+}

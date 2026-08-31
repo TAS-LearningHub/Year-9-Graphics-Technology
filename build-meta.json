@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "engine": "year9-graphics-static-site-engine",
+  "generated_at": "2026-08-31T03:20:14.987077+00:00",
+  "content_source": "course-content.integrated.json",
+  "content_sha256": "0940149767616aa9ed5b50a79227a76b079d0d7443ad08f2bd334517acf0e7d8",
+  "content_status": "integrated-candidate",
+  "sister_styles_source": "work/year10-graphics-benchmark",
+  "storage_namespace": "tas:year9-graphics:v1",
+  "routes": [
+    "activities.html",
+    "assessment.html",
+    "folio.html",
+    "index.html",
+    "modules/module-01.html",
+    "modules/module-02.html",
+    "modules/module-03.html",
+    "modules/module-04.html",
+    "puzzles.html",
+    "teacher-resources.html",
+    "videos.html"
+  ],
+  "counts": {
+    "modules": 4,
+    "sections": 12,
+    "questions": 120,
+    "capstones": 12,
+    "activities": 12,
+    "folio_cards": 12,
+    "optional_puzzles": 4,
+    "visual_slots": 48,
+    "required_actions": 156
+  },
+  "publication_state": "local-isolated-draft"
+}

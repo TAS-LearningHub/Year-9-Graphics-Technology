@@ -1,0 +1,210 @@
+/* Year 9 engine-only additions. The Year 10 sister styles remain the primary shell. */
+:root {
+  --draft-border: #8b2433;
+  --draft-soft: #fff7e8;
+}
+
+body[data-content-status="draft-placeholder"]::before {
+  content: "ISOLATED ENGINE DRAFT · CONTENT PLACEHOLDERS REMAIN";
+  display: block;
+  padding: 0.5rem 1rem;
+  background: #3b1118;
+  color: #fff;
+  font-weight: 800;
+  text-align: center;
+  letter-spacing: 0.035em;
+}
+
+.draft-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.28rem 0.55rem;
+  border: 1px solid var(--draft-border);
+  border-radius: 999px;
+  background: var(--draft-soft);
+  color: #3b1118;
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.theory-placeholder,
+.visual-placeholder,
+.content-placeholder {
+  border: 2px dashed rgba(139, 36, 51, 0.6);
+  border-radius: 0.8rem;
+  background: var(--draft-soft);
+  padding: 1rem;
+}
+
+.theory-placeholder h3 {
+  margin-top: 1.25rem;
+}
+
+.theory-placeholder h3:first-of-type {
+  margin-top: 0.75rem;
+}
+
+.visual-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.visual-gallery figure {
+  margin: 0;
+}
+
+.visual-placeholder {
+  min-height: 14rem;
+  display: grid;
+  align-content: center;
+  gap: 0.5rem;
+}
+
+.visual-placeholder strong,
+.visual-placeholder span {
+  display: block;
+}
+
+.teaching-visual img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: auto;
+  object-fit: contain;
+  display: block;
+  border-radius: 0.7rem;
+}
+
+.visual-actions {
+  margin-top: 0.65rem;
+}
+
+.image-dialog {
+  width: min(92vw, 1100px);
+  border: 0;
+  border-radius: 1rem;
+  padding: 1rem;
+  box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.35);
+}
+
+.image-dialog::backdrop {
+  background: rgba(20, 8, 11, 0.82);
+}
+
+.image-dialog img {
+  width: 100%;
+  max-height: 78vh;
+  object-fit: contain;
+}
+
+.image-dialog__bar {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.learning-end-marker {
+  display: none !important;
+}
+
+.practice-grid,
+.folio-grid,
+.puzzle-grid,
+.media-library,
+.teacher-grid {
+  align-items: start;
+}
+
+.practice-card select,
+.practice-card textarea,
+.folio-card textarea,
+.folio-card input[type="file"] {
+  width: 100%;
+}
+
+.practice-card select,
+.practice-card textarea,
+.folio-card textarea {
+  border: 1px solid #cbb8bc;
+  border-radius: 0.55rem;
+  padding: 0.75rem;
+  background: #fff;
+  color: #241014;
+  font: inherit;
+}
+
+.practice-card label,
+.folio-card label {
+  display: block;
+  margin-top: 0.9rem;
+  font-weight: 750;
+}
+
+.practice-card .button,
+.folio-tools .button,
+.package-actions .button {
+  margin-top: 0.7rem;
+}
+
+.practice-status,
+.folio-card__status {
+  min-height: 1.5rem;
+  margin-top: 0.75rem;
+  color: #5a2430;
+  font-weight: 700;
+}
+
+.activity-bridge {
+  scroll-margin-top: 5rem;
+}
+
+.activity-bridge .button {
+  margin-top: 0.5rem;
+}
+
+.folio-orientation,
+.folio-dashboard,
+.folio-card {
+  margin-bottom: 1rem;
+}
+
+.folio-image-preview img {
+  width: min(100%, 520px);
+  height: auto;
+  border-radius: 0.6rem;
+  margin-top: 0.6rem;
+}
+
+.folio-image-preview:empty {
+  display: none;
+}
+
+.assessment-source-gap {
+  border-left: 0.45rem solid #8b2433;
+}
+
+@media (max-width: 640px) {
+  .visual-gallery {
+    grid-template-columns: 1fr;
+  }
+
+  .image-dialog__bar {
+    align-items: stretch;
+    flex-direction: column;
+  }
+}
+
+@media print {
+  body[data-content-status="draft-placeholder"]::before,
+  .draft-badge,
+  .screen-only,
+  .image-dialog,
+  .visual-actions,
+  .package-actions,
+  .folio-tools,
+  .practice-actions {
+    display: none !important;
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "program_id": "year9-graphics-program",
+  "program_kind": "unit",
+  "source_binding": {
+    "source_map_id": "year9-graphics-source-map-v1.0.0",
+    "source_map_sha256": "df4fa4ae9e578ed8ceef0f06e3f1568a93d322b7bb85b9a55faf3487169c5e07",
+    "integration_baseline_id": "year9-graphics-integrated-candidate",
+    "integration_baseline_sha256": "0940149767616aa9ed5b50a79227a76b079d0d7443ad08f2bd334517acf0e7d8"
+  },
+  "course": {
+    "title": "Year 9 Graphics Technology",
+    "family": "Graphics",
+    "stage": "Stage 5",
+    "course": "Communication Technology - Graphics",
+    "version": "v1.0",
+    "duration": {
+      "value": 40,
+      "unit": "blocks"
+    },
+    "site_state": "local-only"
+  },
+  "syllabus": {
+    "family_key": "communication-technology-7-10-2025",
+    "title": "Communication Technology 7-10 Syllabus (2025)",
+    "version": "2025",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/communication-technology-7-10-2025/overview/course",
+    "status": "2027 planning candidate; early-adoption approval Teacher to confirm; mandatory from 2028",
+    "verified_date": "2026-08-31",
+    "implementation_basis": "Latest-syllabus local candidate; any 2027 early adoption requires faculty confirmation",
+    "outcome_code_family": "CMT5"
+  },
+  "palette": {
+    "mode": "existing-content-area",
+    "syllabus_tone": "communication-technology",
+    "content_area_key": "graphics",
+    "focus_area_key": ""
+  },
+  "master_relationship": {
+    "state": "linked",
+    "master_program_id": "stage5-graphics-200-hour-master-program",
+    "coverage_state": "current"
+  },
+  "teacher_resources": {
+    "route": "teacher-resources.html",
+    "links": [
+      {
+        "label": "Teaching program PDF",
+        "artifact_role": "rendered-program"
+      },
+      {
+        "label": "Editable teaching program",
+        "artifact_role": "editable-program"
+      }
+    ]
+  },
+  "artifacts": [
+    {
+      "role": "editable-program",
+      "path": "year-9-graphics-teaching-program.docx",
+      "sha256": "a23936f7f388cd04ac67106a1f9c8467a337ff5c0bbbd1f47636900ce4fa7b1b"
+    },
+    {
+      "role": "rendered-program",
+      "path": "year-9-graphics-teaching-program.pdf",
+      "sha256": "e18b50b006bf370b699e9ccd47089e110691e443537f9cde352bd9589ca549b0"
+    },
+    {
+      "role": "alignment-manifest",
+      "path": "teacher-program-manifest-v1.0.0.json",
+      "sha256": "088d3768901d391b09b0686daa2de1f7f5f147e8a74f4df4f82d4b7b5a851fba"
+    },
+    {
+      "role": "site-map",
+      "path": "teacher-program-site-map-v1.0.0.json",
+      "sha256": "5294daa80def9650e9f8494b5c4af351440715a392d054a2b39d9650a0f02f61"
+    },
+    {
+      "role": "delivery-register",
+      "path": "year-9-graphics-alignment-and-delivery-register.xlsx",
+      "sha256": "74a84a3be49ae382167c245c498351fd49f03e3a2a4935a1fabb7be87c22178e"
+    }
+  ],
+  "library_card": {
+    "title": "Year 9 Graphics Technology",
+    "family": "Graphics",
+    "stage": "Stage 5",
+    "course": "Communication Technology - Graphics",
+    "durationLabel": "40 blocks",
+    "version": "v1.0",
+    "syllabusAligned": true,
+    "pdf": "programs/year-9-graphics-teaching-program.pdf",
+    "docx": "programs/year-9-graphics-teaching-program.docx",
+    "manifest": "programs/teacher-program-manifest-v1.0.0.json",
+    "syllabusTitle": "Communication Technology 7-10 Syllabus (2025)",
+    "syllabusUrl": "https://curriculum.nsw.edu.au/learning-areas/tas/communication-technology-7-10-2025/overview/course",
+    "syllabusStatus": "2027 planning candidate; early-adoption approval Teacher to confirm; mandatory from 2028",
+    "syllabusVerified": "31 August 2026"
+  },
+  "registration": {
+    "state": "handoff-ready",
+    "canonical_library_url": "https://stevencowell.github.io/Main-Page/subject-program-library/"
+  }
+}
